@@ -1,6 +1,6 @@
 # data-science-notes
 
-Created notes for the Financial Data Professional(FDP) Institute exam. 
+Created notes for the Financial Data Professional Institute (FDP Institute) exam. 
 
 Note:  First version.  May contain inaccuracies. 
 
