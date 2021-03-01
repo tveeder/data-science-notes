@@ -1,4 +1,4 @@
-# data-science-notes
+# fdp-study-notes
 
 Created notes for the Financial Data Professional Institute (FDP Institute) exam. 
 
